@@ -1,6 +1,6 @@
-﻿	touch README.txt
-	echo "El proyecto es: Tarea_4oModulo" > README.txt
-	echo "información de MikeFile: " >> README.txt
-	ls -al adivinanza.sh >> README.txt
-	echo "el programa contiene el siguiente numero de lineas:" >> README.txt
-	wc -l adivinanza.sh >> README.txt
+﻿	touch README.md
+	echo "El proyecto es: Tarea_4oModulo" > README.md
+	echo "información de MikeFile: " >> README.md
+	ls -al adivinanza.sh >> README.md
+	echo "el programa contiene el siguiente numero de lineas:" >> README.md
+	wc -l adivinanza.sh >> README.md
